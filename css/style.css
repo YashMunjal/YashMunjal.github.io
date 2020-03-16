@@ -16,6 +16,13 @@ VERSION:	1.0.0
   font-display: swap;
 }
 
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
 body {
   line-height: 1.2;
   font-family: "Roboto", sans-serif;
